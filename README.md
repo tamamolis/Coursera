@@ -1,2 +1,2 @@
 # Coursera
-Курс "Машинное обучение" от МФТИ и Yandex
+"Machine learning" course by MIPT and Yandex
